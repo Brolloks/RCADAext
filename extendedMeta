@@ -1,0 +1,29 @@
+{
+"info": {
+        "url_png_icon_64x64": "https://bit.ly/35LtFsI",
+        "url_png_logo": "https://bit.ly/3J3ZbAG",
+        "location": "London, England",
+        "social": {
+            "twitter_handle": "RcadaPool",
+            "telegram_handle": "RCADA_Stake_ADA_Pool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "RCADA Stake-Cardano-Pool",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Company Name",
+            "addr": "Street, Number",
+            "city": "London",
+            "country": "England",
+            "company_id": "123456789",
+            "vat_id": "GB123456789"
+        },
+        "about": {
+            "me": "Rick",
+            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
+            "company": "..."
+        }
+    }
+}
