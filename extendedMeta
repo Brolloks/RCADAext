@@ -1,29 +1,39 @@
 {
-"info": {
-        "url_png_icon_64x64": "https://bit.ly/35LtFsI",
-        "url_png_logo": "https://bit.ly/3J3ZbAG",
-        "location": "London, England",
-        "social": {
-            "twitter_handle": "RcadaPool",
-            "telegram_handle": "RCADA_Stake_ADA_Pool",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "RCADA Stake-Cardano-Pool",
-            "github_handle": ""
-        },
-        "company": {
-            "name": "",
-            "addr": "",
-            "city": "",
-            "country": "",
-            "company_id": "",
-            "vat_id": ""
-        },
-        "about": {
-            "me": "Rick, AKA MAVERICK! Single Stake Pool Owner, dedicated to the core principles of the Cardano blockchain ecosystem. Taking a leap of faith and changing career to see how deep the rabbit hole goes...",
-            "server": "Challenge accepted on the Raspberry Pi 4B Super-optimized for small spaces ;) No Clouds here, just good old fashion hands-on work keeping Cardano truly decentralized!",
-            "company": ""
-        }
-    }
+  "info": {
+    "url_png_icon_64x64": "https://bit.ly/35LtFsI",
+    "url_png_logo": "https://bit.ly/3J3ZbAG",
+    "location": "London, England",
+    "social": {
+      "twitter_handle": "RcadaPool",
+      "telegram_handle": "RCADA_Stake_ADA_Pool",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "RCADA Stake-Cardano-Pool",
+      "github_handle": "Brolloks"
+    },
+    "company": {
+      "name": "",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "Rick, AKA MAVERICK! Single Stake Pool Owner, dedicated to the core principles of the Ca>
+      "server": "Challenge accepted on the Raspberry Pi 4B Super-optimized for small spaces ;) No Cl>
+      "company": ""
+    },
+    "rss": ""
+  },
+  "telegram-admin-handle": [
+    "RickCardo"
+  ],
+  "my-pool-ids": [
+    "09d4cd832d9c3bf96551d86622f2205947c978a6e1e3b1e827596297"
+  ],
+  "when-satured-then-recommend": [
+    "6879ab43e837d11c606e37dbf3e743f13f303c9dff53be602f263d6d"
+  ]
 }
