@@ -1,0 +1,40 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://bit.ly/3yP14in",
+    "url_png_logo": "https://bit.ly/3wxsmIm",
+    "location": "London, England",
+    "social": {
+      "twitter_handle": "RcadaPool",
+      "telegram_handle": "RCADA_Stake_ADA_Pool",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "ada_handle": "$rcada-spo",
+      "discord_handle": "RCADA Stake-Cardano-Pool",
+      "github_handle": "Brolloks"
+    },
+    "company": {
+      "name": "",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": ["RCADA is a rad stake pool with a serious commitment to sustainability and decentralization.", "Operated by Rick, an 80's synth enthusiast with a passion for preserving the environment. ♻️", "Donating a portion of my operator rewards to the CNC Ala project, which plants trees and supports regenerative agriculture in Madagascar."],
+      "server": "Rocking bare metal on a 100% renewable energy, Solo 🔂  playa, giving you all the power of the blockchain whilst keeping Cardano truly decentralized!",
+      "company": ""
+    },
+    "rss": ""
+  },
+  "telegram-admin-handle": [
+    "RickCardo"
+  ],
+  "my-pool-ids": [
+    "09d4cd832d9c3bf96551d86622f2205947c978a6e1e3b1e827596297"
+  ],
+  "when-satured-then-recommend": [
+    "f4ebee070198a0db41e46d5e59a7c582357013d15b907f65ad75d55e"
+  ]
+}
